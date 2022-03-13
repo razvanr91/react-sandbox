@@ -1,4 +1,5 @@
 import UseRefExample1 from "./components/UseRefExample1";
+import UseRefExample2 from "./components/UseRefExample2";
 
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="container mt-5">
       <h1>Hello</h1>
       <UseRefExample1 />
+      <UseRefExample2 />
     </div>
   );
 }
